@@ -1,0 +1,1 @@
+A test of Z.ai's current coding capabilities. I asked GLM-5.2 through Novita AI to build me a website explaining China's international reputation. The prompt used was in English, "Please can you create a website for me explaining China's international reputation?" No alterations were made to the model's work.
